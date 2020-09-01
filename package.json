@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ignore-path ./.gitignore ."
   },
-  "author": "Aliaksandr",
+  "author": "Radivilov Ivan",
   "license": "ISC",
   "browserslist": [
     "> 0.2%",
